@@ -1,0 +1,5 @@
+- **PAYE Calculation:** The PAYE (Pay As You Earn) is calculated based on the provided PAYE rates for 2024.
+- **NHIF Calculation:** The NHIF deduction is calculated based on the gross pay according to the provided NHIF rates.
+- **NSSF Calculation:** The NSSF contribution is calculated based on the Tier I contribution as per the new NSSF Act.
+- **Housing Levy Calculation:** The Housing Levy is a fixed percentage of the gross pay, as required starting from July 2023.
+- **Net Salary Calculation:** The net salary is computed as the difference between the sum of basic salary and benefits and the total deductions (PAYE, NHIF, NSSF, Housing Levy).
